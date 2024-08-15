@@ -40,5 +40,10 @@ This project involves scraping data from websites for analysis and processing.
 
 The output file will be saved in the project folder. Name of the file: output<timestamp>.csv/output<timestamp>.json
 
+# Note:
 
-Note: Update you drived in the utlis.py as per the operating system
+Update the selenium driver in the utlis.py as per the operating system.
+
+remove comment in the line no. 16 and add comment no. 14 if operating system is windows.
+
+remove comment in the line no. 14 and add comment no. 16 if operating system is MacOS.
