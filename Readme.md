@@ -39,3 +39,6 @@ This project involves scraping data from websites for analysis and processing.
 # Locate the Output File:
 
 The output file will be saved in the project folder. Name of the file: output<timestamp>.csv/output<timestamp>.json
+
+
+Note: Update you drived in the utlis.py as per the operating system
